@@ -10,3 +10,6 @@ So, I've decided to delve deeper into these limitations using Google Generative 
 - Natural Language Processing (NLP)
 - Keyword Mapping and Matching
 - Feedback Mechanism
+
+##NOTE-
+please generate api key for google.generativeai
